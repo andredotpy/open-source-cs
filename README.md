@@ -15,7 +15,7 @@ Courses | Duration | Started | Ended | Certificate | Comments
 
 Courses | Duration | Started | Ended | Certificate | Comments
 :-- | :--: | :--: | :--: | :--: | :--:
-[How to code Simple Data](https://www.edx.org/course/how-to-code-simple-data) | 7 weeks | 03/2023 | - | - | This course is part of [Software Development MicroMasters Program](https://www.edx.org/micromasters/ubcx-software-development) of edX and UBC.
+[How to code Simple Data](https://www.edx.org/course/how-to-code-simple-data) | 7 weeks | 25/03/2023 | - | - | This course is part of [Software Development MicroMasters Program](https://www.edx.org/micromasters/ubcx-software-development) of edX and UBC.
 [How to Code: Complex Data](https://www.edx.org/course/how-to-code-complex-data) | 6 weeks | - | - | - | This course is part of [Software Development MicroMasters Program](https://www.edx.org/micromasters/ubcx-software-development) of edX and UBC.
 [Programming Languages part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | - | - | - | No comments yet.
 [Programming Languages part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | - | - | - | No comments yet.
